@@ -10,8 +10,6 @@ main.cpp contains the code solution, although it is slightly different from my o
 My original outputted the measured times into a .csv file called timesOut, which is included in this repository.
 This was to smooth the process of importing the data to google sheets in order to quickly plot graphs.
 
-project1Times.png is a screenshot of the successful output according to the provided template.
-
 Project1_Fall2021.pdf is the final product, after the change to a template.
 
 Project_1_311.pdf is the original report I wrote, using my original code. I included this because I am more proud of it than the actual final product.
