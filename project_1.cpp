@@ -1,4 +1,4 @@
-//Christopher Robles, Jack Mattern
+//With help from Christopher Robles
 #include<iostream>
 #include<vector>
 #include<fstream>
